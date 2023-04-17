@@ -9,6 +9,7 @@ REST API was used with NodeJs at backend.
 MongoDb is used to store cradentials locally.
 <br>
 bcrypt is used to store the password
+<h3> Yet to complete </h3>
 
 ## Getting Started
 
