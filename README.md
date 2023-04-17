@@ -1,9 +1,13 @@
 # sign_up_with_node
 
 A new Flutter project.
+<br>
 Authentication using REST API.
+<br>
 REST API was used with NodeJs at backend.
+<br>
 MongoDb is used to store cradentials locally.
+<br>
 bcrypt is used to store the password
 
 ## Getting Started
